@@ -1,4 +1,4 @@
-# VBS LED Installation Summary
+# LED Installation Summary for Sanctuary 
 
 This document summarizes the three planned LED installations:
 
