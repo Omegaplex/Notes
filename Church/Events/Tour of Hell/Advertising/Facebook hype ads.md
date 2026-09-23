@@ -107,3 +107,49 @@ Consistency comes from:
 - serious biblical tone
 - restrained theatrical scale
 - strong dark composition with scene-specific lighting and color
+
+
+## Prompt output convention
+
+- When presenting a finished Tour of Hell Facebook hype-ad image prompt to the user, place the full prompt inside a **copyable fenced code block**.
+- Keep shared campaign rules in this file rather than repeating them in every room prompt. Room-specific prompt files should reference this file and contain only the details that differ for that scene.
+
+## Facebook post copy
+
+Each hype image should have matching Facebook post copy built around the same room-specific message.
+
+### Standard structure
+
+1. Start with:
+   **🔥 TOUR OF HELL 2026 🔥**
+2. Follow with the image's upper-third question, statement, or verse as the hook.
+3. Add a short room-specific paragraph explaining the biblical idea behind the image without giving away the entire scene.
+4. Keep the wording natural, direct, and easy to read on a phone.
+5. Follow with the standard event-information block.
+6. End with the age/intensity notice and campaign hashtags.
+
+### Standard event-information block
+
+Use this unless current project context changes:
+
+📅 Sundays: October 4, October 18 and October 25  
+🕒 3:00–8:00 PM  
+📍 Main Street Church of God  
+66 Main St, Russell Springs, KY 42642
+
+Tours begin every 12 minutes. Advance registration is recommended. Walk-ins are first come, first served after preregistered guests.
+
+Register today: **https://tourofhell.cc**
+
+Please be aware that this experience is designed for middle-school-aged youth and older. Due to its intense content and effects, younger children should not attend.
+
+#TourOfHell #RussellSprings #MainStreetChurchOfGod
+
+### Copy tone
+
+- Tie the opening paragraph directly to the room's script and biblical theme.
+- Create curiosity without summarizing the whole room.
+- Keep the spiritual point serious and clear.
+- Do not sensationalize, use gore-heavy language, or imply that the theatrical scene is a literal visual description of the afterlife.
+- Keep the room-specific section concise enough that the event details do not get buried.
+- The image headline and post hook should reinforce one another rather than introduce competing messages.
