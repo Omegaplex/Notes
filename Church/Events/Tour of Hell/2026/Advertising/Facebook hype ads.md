@@ -154,3 +154,15 @@ Please be aware that this experience is designed for middle-school-aged youth an
 - Do not sensationalize, use gore-heavy language, or imply that the theatrical scene is a literal visual description of the afterlife.
 - Keep the room-specific section concise enough that the event details do not get buried.
 - The image headline and post hook should reinforce one another rather than introduce competing messages.
+
+
+## Facebook boost workflow
+
+For Tour of Hell Facebook Page posts that will be boosted:
+
+1. Publish the post **unboosted**.
+2. Set the post's comment audience/restriction before boosting.
+3. Verify the comment setting is working from a non-Page view if practical.
+4. Only then start the Facebook boost.
+
+On the church Page's current Facebook interface, the per-post comment control may disappear after a post is boosted, so treat the comment setting as a **pre-boost step**.
