@@ -126,6 +126,7 @@ Prophecy Alley is encountered three times in the complete route:
 - Public copy may describe the event as an immersive theatrical walk-through using live actors and dramatic scenes to present a serious biblical message about choices, consequences, and eternity separated from God.
 - Promotional art may be cinematic and ominous, but should fit the actual church-produced event rather than depicting an enormous fantasy fortress or a scale the live event cannot support.
 - Visuals should generally support the seriousness of the message rather than rely on gore.
+- For individual Facebook hype-ad prompts or image generation, first read `Advertising/Facebook hype ads.md` and apply its shared format, composition, style, tone, and scale rules in addition to the current room script and room-specific notes.
 
 ## Slides and presentation media
 
