@@ -149,6 +149,7 @@ Please be aware that this experience is designed for middle-school-aged youth an
 
 - Tie the opening paragraph directly to the room's script and biblical theme.
 - Create curiosity without summarizing the whole room.
+- Give only a glimpse of the room's theme. Do not reveal specific scene actions, character blocking, dialogue beats, surprises, or other details that would spoil the live experience.
 - Keep the spiritual point serious and clear.
 - Do not sensationalize, use gore-heavy language, or imply that the theatrical scene is a literal visual description of the afterlife.
 - Keep the room-specific section concise enough that the event details do not get buried.
