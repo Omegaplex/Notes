@@ -34,10 +34,15 @@ Each room/area should have its own scene-specific prompt based on the current sc
 ### Lower third — website
 
 - Allow the image to darken toward the bottom.
-- Center the website prominently in clean, bold white text:
+- Center the website prominently:
 
   **TOUROFHELL.CC**
 
+- Use a **large elegant distressed serif** treatment rather than a plain modern sans-serif.
+- Use **warm ivory / cream lettering** with subtle orange illumination or glow.
+- Frame the website with **thin horizontal fire-like glowing lines** above and below the text.
+- The framing lines should look like restrained ember/fire accents, not large flames.
+- Keep the whole treatment centered, dramatic, and refined against a dark background.
 - It should be easy to read on a phone, but smaller than the upper headline.
 
 ## Visual style
