@@ -99,6 +99,21 @@ For each new ad:
 7. Apply the hand-drawn cinematic concept-art style.
 8. Keep the result visually dramatic without implying a larger or more elaborate live production than the room actually provides.
 
+
+## Room prompt development workflow
+
+Use this process when a room has real-world reference photos or complicated staging:
+
+1. **Settle the concept first.** Decide the single message, emotional idea, and visual story the ad should communicate before worrying about exact furniture, props, or room geometry.
+2. **Use photos as source material for facts.** Review the real-room photos and explicitly identify which features should carry into the concept art and which should be ignored.
+3. **Translate approved photo details into standalone prompt language.** Describe the selected geometry, materials, placement, proportions, viewing angle, and lighting in words so the final prompt does not need the reference photo.
+4. **Prefer physical descriptions over labels.** For example, “three straight parallel rows of plain wooden pews facing a simple wooden pulpit” is more reliable than “old church interior.”
+5. **Use hard exclusions for recurring mistakes.** If an unwanted object keeps appearing, remove the concept entirely when possible: “no table of any kind,” “no visible Bible,” “no drop ceiling,” etc.
+6. **Separate lighting by zone.** State clearly which areas are illuminated, which remain in shadow, and which must be completely black.
+7. **Once an image is approved, save the exact final prompt** in this Advertising directory using the room number and room name. That saved Markdown file becomes the durable source for the approved room prompt.
+
+When photos are supplied, do not automatically use them as direct image-generation references. First ask which visible features should be kept and which should be ignored, unless the user has already made that clear.
+
 ## Consistency goal
 
 The complete series should look like one coordinated advertising campaign even though every room has a different subject.
