@@ -27,11 +27,14 @@ Additional private or special reservations may exist on other dates. Do not add 
 ## Tour timing and group flow
 
 - Normal tour cycles are **12 minutes apart**.
-- Maximum normal cycle size is **8 guests**.
+- Maximum normal cycle size is **6 guests** (confirmed October 3, 2026).
+- October 4 at 3:00 PM retains **7 guests** to honor the existing confirmed booking; all other cycles on the three public dates are limited to six.
+- One color departs per 12-minute cycle; the six colors rotate. Colors and cycle times remain locked.
+- The 5:00, 5:12, and 5:24 PM cycles are inactive breaks. With 22 active cycles, October 4 has 133 places; October 18 and 25 have 132 each.
 - Groups do **not overlap** in the tour.
 - Each group moves as a single cycle through the route.
 - Group/color assignments are used operationally so staff can identify groups.
-- Armband quantities should follow the normal 8-person cycle size.
+- Armband quantities should follow the normal 6-person cycle size, with seven for the grandfathered October 4 opening cycle.
 
 ## Guest arrival and registration rules
 
@@ -40,9 +43,9 @@ Additional private or special reservations may exist on other dates. Do not add 
 - Normal guests should arrive about **10 minutes early**.
 - Groups over 20 should arrive about **30 minutes early**.
 - Parties should arrive together whenever possible.
-- Individual/family registrations are normally **1–7 people**.
-- Organized groups are **8 or more people**.
-- Capacity planning is based on the 8-person cycle limit.
+- New individual/family registrations are **1–6 people**. The existing confirmed seven-person opening booking is preserved.
+- New organized groups are **7 or more people**. At least one adult chaperone is required per six people; chaperones count toward the total and each occupied cycle must have an adult.
+- Capacity planning is based on each cycle's current database limit (normally six). Existing bookings are not moved or re-emailed merely because limits changed.
 
 ## Audience and guest safety
 
