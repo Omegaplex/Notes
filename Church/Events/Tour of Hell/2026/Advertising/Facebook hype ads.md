@@ -157,6 +157,8 @@ Use this unless current project context changes:
 📍 Main Street Church of God  
 66 Main St, Russell Springs, KY 42642
 
+Admission is **FREE**, and the event is open to all.
+
 Tours begin every 12 minutes. Advance registration is recommended. Walk-ins are first come, first served after preregistered guests.
 
 Register today: **https://tourofhell.cc**
