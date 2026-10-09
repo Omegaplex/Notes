@@ -2,6 +2,8 @@
 
 Personal recipe cards with ingredients, directions, and practical cooking notes.
 
+See [CONTEXT.md](CONTEXT.md) for recipe card conventions and the review/commit workflow.
+
 ## Breakfast
 
 - [Fluffy Scrambled Eggs](Breakfast/Fluffy%20Scrambled%20Eggs.md) — scalable master recipe; optional cheese
