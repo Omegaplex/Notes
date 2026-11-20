@@ -12,6 +12,7 @@ See [CONTEXT.md](CONTEXT.md) for recipe card conventions and the review/commit w
 
 - [Buttery Skillet Burgers](Main%20Dishes/Buttery%20Skillet%20Burgers.md) — revised version not yet tested
 - [Grilled Chicken Quesadillas](Main%20Dishes/Grilled%20Chicken%20Quesadillas.md) — tested, family approved; includes Velveeta Queso Blanco dip
+- [Pepperoni, Sausage & Cheese Calzones](Main%20Dishes/Pepperoni%2C%20Sausage%20%26%20Cheese%20Calzones.md) — tested, good crust and flavor; longer dough rest still untested
 - [Turkey Burgers](Main%20Dishes/Turkey%20Burgers.md) — original and Dijon variation in one card
 - [Turkey Meatloaf](Main%20Dishes/Turkey%20Meatloaf.md) — tested, very good
 
